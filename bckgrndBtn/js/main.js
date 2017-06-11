@@ -5,7 +5,7 @@ var par2 = document.getElementById('par2');
 
 function ustawTlo(){
     par1.style.backgroundColor = 'red';
-      par2.style.backgroundColor = 'yellow';
+    par2.style.backgroundColor = 'yellow';
 }
 
 var btn = document.getElementById('bck-btn');
